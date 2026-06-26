@@ -8,8 +8,14 @@
 
 <p align="center">
   <img 
-    src="https://github.com/VultureAV/Photos/blob/main/Vulture.png?raw=true"
+    src="https://github.com/VultureAV/.github/blob/main/profile/Vulture-Text.png?raw=true"
     height="64"
     style="vertical-align: middle;"
   />
 </p>
+<h3 align="center" color="#ffffff">
+  Because Privacy is a right.
+</h3>
+<div align="center" color="#ffffff">
+  <p>Owner: Simpfey</p>
+</div>
